@@ -1,0 +1,23 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "citas",
+    "collectionId": "b3c3c59d-9915-4345-8e43-a207dc74e2b7",
+    "dateExported": "2024-05-23T13:59:34.097Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "f315c9f9-853d-469f-97ee-86ad6c37180a",
+            "colId": "b3c3c59d-9915-4345-8e43-a207dc74e2b7",
+            "containerId": "",
+            "name": "agregarcitas",
+            "url": "http://localhost:4000/api/cita",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-05-23T13:49:21.894Z",
+            "modified": "2024-05-23T13:50:50.115Z",
+            "headers": []
+        }
+    ],
+    "ref": "5iNFncbF_pQh3p3laHojhZKsQLZr1E7-8k-bW8L2z9Ed-hr9cGTUTRyyxJvU0JJ9CrucQQczNr4OXqUTHQjQqQ"
+}
